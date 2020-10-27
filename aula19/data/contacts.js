@@ -1,0 +1,1 @@
+module.exports = `[{"id":1,"name":"Victor Torres","email":"vtorres@digitalhouse.com","message":"Primeira mensagem"},{"id":2,"name":"Victor Torres M","email":"vtorresm@digitalhouse.com","message":"Segunda mensagem m"}]`
